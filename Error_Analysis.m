@@ -8,5 +8,4 @@ stats.infinityNorm = norm(residual, Inf); %infinity norm
 stats.mean_err = mean(residual); %mean error 
 stats.variance = var(residual); % variance
 stats.rms_err = sqrt(mean(residual.^2)); %root mean square error 
-
 end
