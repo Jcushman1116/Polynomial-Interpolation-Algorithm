@@ -1,3 +1,0 @@
-function [gamma, fx] = Barycentric1Coefficients(mesh, n, f)
-
-end 
